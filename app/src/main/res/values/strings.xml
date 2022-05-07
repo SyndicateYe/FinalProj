@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ECE420 Lab7 Video Processing</string>
+    <string name="control_button">START</string>
+    <string name="yes" />
+</resources>
